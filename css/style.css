@@ -80,6 +80,7 @@ margin-bottom: 50px;
     height: 500px;
     width: 100%;
 }
+/* slide section start */
 .slide-1{
     height: 500px;
     background-image: url("../images/Rectangle\ 7.png"), url("../images/slider-1.jpg"); 
@@ -98,6 +99,7 @@ margin-bottom: 50px;
     background-repeat: no-repeat;
     background-size: 100% 500px;
 }
+/* slider section */
 .developer-img{
     margin-top: 100px;
     height: 70px;
@@ -183,6 +185,7 @@ footer{
 .left-al{
     text-align: left;
 }
+/* responsive section section */
 @media screen and (max-width: 572px ) {
     .h-description{
         padding-left: 0px;
