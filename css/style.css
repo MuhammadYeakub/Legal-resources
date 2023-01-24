@@ -7,6 +7,7 @@
     height: 64px;
     width: 220px;
 }
+/* header section */
 .header-img{
     background-image: url("../images/Rectangle\ 5.png"),url("../images/banner.png");
     background-repeat: no-repeat;
@@ -33,6 +34,7 @@ line-height: 26px;
 color: #E7E7E7;
 margin-bottom: 50px;
 }
+/* header section end */
 .search1{
     display: grid;
     grid-template-columns:repeat(2,1fr);
