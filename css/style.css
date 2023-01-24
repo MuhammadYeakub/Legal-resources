@@ -35,11 +35,13 @@ color: #E7E7E7;
 margin-bottom: 50px;
 }
 /* header section end */
+/* search section */
 .search1{
     display: grid;
     grid-template-columns:repeat(2,1fr);
     gap: 20px;
 }
+/* main section */
 .main{
     padding-top: 100px;
     padding-left: 15%;
